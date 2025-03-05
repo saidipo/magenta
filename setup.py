@@ -1,4 +1,4 @@
-# Copyright 2024 The Magenta Authors.
+# Copyright 2022 The Magenta Authors.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -33,12 +33,12 @@ REQUIRED_PACKAGES = [
     'mido == 1.2.6',
     'mir_eval == 0.7',
     'note-seq == 0.0.3',
-    'numba == 0.49.1',
+    'numba == 0.56.4',
     'numpy == 1.21.6',
     'Pillow == 9.2.0',
     'pretty_midi == 0.2.9',
     'pygtrie == 2.5.0',
-    'python-rtmidi == 1.1.2',
+    'python-rtmidi == 1.4.9',
     'scikit-image == 0.19.3',
     'scipy == 1.7.3',
     'six == 1.16.0',
